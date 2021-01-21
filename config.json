@@ -1,7 +1,7 @@
 {
   "TOKEN": "1332016994:AAGh9onh8ncUcPPSMd-bYl9ORf5rUh0GDA4",
   "AUTH": {
-    "ENABLE": trur,
+    "ENABLE": true,
     "PASSWORD": "280902",
     "USERS": []
   },
