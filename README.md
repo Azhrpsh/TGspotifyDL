@@ -1,4 +1,6 @@
-# TelegramSpotifyDownloader
+# Easy Deploy:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 ## What is it?
 This is a simple bot to download songs from YouTube in an MP3 format by using Spotify's HTTP link.
