@@ -5,6 +5,6 @@
     "PASSWORD": "280902",
     "USERS": []
   },
-  "SPOTDL_DOWNLOADER": false,
-  "SPOTIFYDL_DOWNLOADER": true
+  "SPOTDL_DOWNLOADER": true,
+  "SPOTIFYDL_DOWNLOADER": false
 }
