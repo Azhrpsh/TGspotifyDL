@@ -1,10 +1,10 @@
 {
-  "TOKEN": "1332016994:AAGh9onh8ncUcPPSMd-bYl9ORf5rUh0GDA4",
+  "TOKEN": "1633777016:AAG2bCDqUtWdyGOChj-0wTDetkx7lm82Ipk",
   "AUTH": {
     "ENABLE": true,
-    "PASSWORD": "280902",
+    "PASSWORD": "101793",
     "USERS": []
   },
-  "SPOTDL_DOWNLOADER": true,
-  "SPOTIFYDL_DOWNLOADER": false
+  "SPOTDL_DOWNLOADER": false,
+  "SPOTIFYDL_DOWNLOADER": true
 }
